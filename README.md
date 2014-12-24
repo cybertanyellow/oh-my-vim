@@ -1,6 +1,10 @@
 oh-my-vim
 =========
 
-vim bundle with my favorite plugin <BR>
-include basic cscope_maps, cscope.vim, <BR>
-gocode, L9, sparkup, vim-fugitive, vim-go, Vundle.vim
+Using vim bundle to manage my favorite plugins, include cscope-maps, cscope.vim, gocode, L9, sparkup, vim-fugitive, vim-go, Vundle.vim
+
+HOWTO
+-----
+	git clone --recursive https://github.com/cybertanyellow/oh-my-vim.git ~/.vim
+	cp ~/.vim/vimrc .vimrc
+
