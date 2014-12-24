@@ -1,0 +1,18 @@
+[submodule "bundle/cscope_maps"]
+	path = bundle/cscope_maps
+	url = https://github.com/chazy/cscope_maps.git
+[submodule "bundle/cscope.vim"]
+	path = bundle/cscope.vim
+	url = https://github.com/vim-scripts/cscope.vim.git
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = https://github.com/rstacruz/sparkup.git
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "bundle/Vundle.vim"]
+	path = bundle/Vundle.vim
+	url = https://github.com/gmarik/Vundle.vim.git
