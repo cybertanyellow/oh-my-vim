@@ -6,5 +6,5 @@ Using vim bundle to manage my favorite plugins, include cscope-maps, cscope.vim,
 HOWTO
 -----
 	git clone --recursive https://github.com/cybertanyellow/oh-my-vim.git ~/.vim
-	cp ~/.vim/vimrc .vimrc
+	ln -sf ~/.vim/vimrc .vimrc
 
